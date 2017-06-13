@@ -31,10 +31,10 @@ Review the following materials:
 
 ## Your turn: Make the children pretty
 
-- Using the previous code pen as a template, [fork this pen](http://codepen.io/tripott/pen/eWMVwj) the pen to your account.  Reviewing the settings for the template you will see it contains a reference to react and react-dom libraries and tachyons css.
+- Using the previous code pen as a template, [fork this pen](http://codepen.io/tripott/pen/eWMVwj) to your account.  Reviewing the settings for the template you will see it contains a reference to `react` and `react-dom` libraries and tachyons css.
 - Modify the code so that it looks like the image below:
 
-  > Don't Panic!: See [tachyons.io](http://tachyons.io/components/) components.   [Peek](http://codepen.io/tripott/pen/xdWWpx?editors=0011) here if you need to look at the solution.
+  > See [tachyons.io](http://tachyons.io/components/) components.   [Peek](http://codepen.io/tripott/pen/xdWWpx?editors=0011) here if you need to look at the solution.
 
 - The data for each child is located as an object within the `characters` array.
 - Clicking the **More** button should navigate the browser to the url that provided by the `more` property.
