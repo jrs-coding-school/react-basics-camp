@@ -25,7 +25,7 @@
 0. True or False. Defining a component as a class rather than a function allows the ability to use additional features such as local state and lifecycle hooks.  
 0. Review the following code within this CodePen: http://codepen.io/tripott/pen/aWErJP?editors=0011
   - Fork the pen to your CodePen account.  
-  - Modify the componet so that it accepts and displays a name within the `h2` tag.
+  - Modify the component so that it accepts and displays a name within the `h2` tag.
   - Run the `display()` function in the console to display the component.
     ```
     function Hello() {

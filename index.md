@@ -1,7 +1,3 @@
-# Pharma Student React Camp
+# React Basics Camp
 
-Build a react application that leverages the pharma-student-api.
-
-## contents
-
-- [Setup](/setup)
+Learn the basics behind React.
